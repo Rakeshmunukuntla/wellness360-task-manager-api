@@ -233,13 +233,13 @@ cd wellness360-task-manager-api
 ## Build Project
 
 ```bash
-mvn clean install
+mvnw.cmd clean install
 ```
 
 ## Run Application
 
 ```bash
-mvn spring-boot:run
+mvnw.cmd spring-boot:run
 ```
 
 ---
